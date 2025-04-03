@@ -1,8 +1,8 @@
 ## Hi there, I'm Savant 👋
 
-✨Code genius by day, game dreamer by night! ✨ 
+✨Code genius by day, pro gamer by night! ✨ 
 
-I'm a passionate frontend & backend developer who loves crafting sleek websites and in my free time tinkering with game mechanics. Whether it's pixel-perfect UI or backend struggles, I'm always up for a fun challenge! 🎮💻🚀
+I'm a passionate frontend & backend developer who loves branching out and learning new things. From building dynamic webpages, to mobile apps, or game development, there is some knowledge and experience I own! As long as it's creative and fun, I'm down for the challenge! 🎮💻🚀
 
 
 # 💻 Tech Stack:
