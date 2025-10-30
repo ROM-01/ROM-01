@@ -1,4 +1,4 @@
-## Welcome to My Dev Archives👋
+# Welcome to My Dev Archives👋
 -Coding by day, gaming by night-
 
 I'm a passionate frontend & backend developer who loves branching out and learning new technologies. From building dynamic webpages, to mobile apps, or game development, there will be some knowledge and experience I aim to own! As long as it's solving a problem, creative, and fun, I'm down for the challenge! 🎮💻🚀
