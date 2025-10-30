@@ -8,7 +8,7 @@ I'm a passionate frontend & backend developer who loves branching out and learni
 
 
 <div align="left">
-	<h3>💻Web</h3> (Currently⭐️)
+	<h3>💻Web (Currently⭐️)</h3> 
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
